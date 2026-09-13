@@ -39,3 +39,19 @@ Recommended naming:
 - `*biodiv*` or `*molecular*` → Biodiversity data
 
 If filenames don't match these patterns, datasets will still appear under **All Files**.
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/upload-dashboard.png)
+
+### Fisheries Data
+![Fisheries Data](screenshots/fisheries-data.png)
+
+### Fisheries Charts
+![Charts](screenshots/fisheries-charts.png)
+
+### Prediction Results
+![Prediction](screenshots/prediction-results.png)
+
+### All Data View
+![All Data](screenshots/all-data-view.png)
