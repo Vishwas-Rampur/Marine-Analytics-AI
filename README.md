@@ -1,5 +1,7 @@
 # 🌊 Marine Analytics AI
 
+An AI-powered platform for integrating oceanographic, fisheries, and biodiversity datasets with interactive analytics and predictive modeling.
+
 ## Overview
 
 This project integrates Oceanographic, Fisheries, and Biodiversity datasets into a unified interactive dashboard.
