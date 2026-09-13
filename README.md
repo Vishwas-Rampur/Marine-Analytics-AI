@@ -1,25 +1,41 @@
-# AI-Driven Unified Data Platform (Capstone-style)
+# 🌊 Marine Analytics AI
 
-Simplified version:
-- ✅ Streamlit frontend (`main.py`)
-- ✅ Upload your datasets as **one ZIP**
-- ✅ No Docker / Postgres / Kafka
-- ✅ Repo ships with **no datasets**
+## Overview
 
-## Run locally
+This project integrates Oceanographic, Fisheries, and Biodiversity datasets into a unified interactive dashboard.
+
+## Features
+
+- Multi-dataset upload (ZIP)
+- Data cleaning and processing pipeline
+- Interactive visualizations (charts, maps)
+- Fish catch prediction using regression
+- Automated insight generation
+- Dataset export functionality
+
+## Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Streamlit
+- Matplotlib
+
+## How to Run
 
 ```bash
 pip install -r requirements.txt
 streamlit run main.py
 ```
 
-## ZIP upload format
+## ZIP Upload Format
 
-Upload **one ZIP** containing your datasets (CSV / XLSX / Parquet).
+Upload a ZIP file containing your datasets.
 
 Recommended naming:
-- `*ocean*` -> Oceanographic data
-- `*fisher*` -> Fisheries data
-- `*biodiv*` or `*molecular*` -> Biodiversity data
 
-If your filenames don't match, the app still shows all tables under **All Files**.
+- `*ocean*` → Oceanographic data
+- `*fisher*` → Fisheries data
+- `*biodiv*` or `*molecular*` → Biodiversity data
+
+If filenames don't match these patterns, datasets will still appear under **All Files**.
