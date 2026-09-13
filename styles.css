@@ -1,0 +1,5 @@
+.block-container { padding-top: 1.5rem; padding-bottom: 2rem; }
+h1, h2, h3 { letter-spacing: -0.01em; }
+div[data-testid="stMetric"] { background: #0b1220; padding: 14px 14px; border-radius: 16px; }
+div[data-testid="stMetric"] * { color: #e6eefc !important; }
+section[data-testid="stSidebar"] { background: #07101f; }
