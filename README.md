@@ -1,5 +1,7 @@
 # 🌊 Marine Analytics AI
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://marine-analytics-ai.streamlit.app/)
+
 An AI-powered platform for integrating oceanographic, fisheries, and biodiversity datasets with interactive analytics and predictive modeling.
 
 ## Overview
